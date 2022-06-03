@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-03T14:56:44 IST" name="Suite" finished-at="2022-06-03T14:56:58 IST" duration-ms="14452">
+    <groups>
+    </groups>
+    <test started-at="2022-06-03T14:56:44 IST" name="Test" finished-at="2022-06-03T14:56:58 IST" duration-ms="14452">
+      <class name="com.vyasa.maventest.MavenTestNgTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.vyasa.maventest.MavenTestNgTest@1e802ef9]" started-at="2022-06-03T14:56:44 IST" name="openBrowser" finished-at="2022-06-03T14:56:57 IST" duration-ms="13304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.vyasa.maventest.MavenTestNgTest@1e802ef9]" started-at="2022-06-03T14:56:57 IST" name="verifyTitle" finished-at="2022-06-03T14:56:57 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.vyasa.maventest.MavenTestNgTest@1e802ef9]" started-at="2022-06-03T14:56:57 IST" name="close" finished-at="2022-06-03T14:56:58 IST" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.vyasa.maventest.MavenTestNgTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
